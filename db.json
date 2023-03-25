@@ -1,0 +1,25 @@
+{
+  "crados": [
+    {
+      "id": 1,
+      "first_name": "Sebastien",
+      "last_name": "Danlebain",
+      "imageUrl": "/static/images/sebastien_danlebain.jpg",
+      "comment": "Sébastien a eu la baveuse d'or du 10 mètres coulée libre à Séoul."
+    },
+    {
+      "id": 2,
+      "first_name": "Pat",
+      "last_name": "le Pirate",
+      "imageUrl": "/static/images/pat_le_pirate.jpg",
+      "comment": "Ne serre jamais la pince à Pat, tu risques de prendre un crochet du gauche"
+    },
+    {
+      "id": 3,
+      "first_name": "Romain",
+      "last_name": "Touterrain",
+      "imageUrl": "/static/images/romain_touterrain.jpg",
+      "comment": "Tout jeune, Romain a eu un accident de poussette. Des années plus tard, il dépasse encore les bornes."
+    }
+  ]
+}
