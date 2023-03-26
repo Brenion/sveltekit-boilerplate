@@ -9,7 +9,7 @@
 		"test:unit": "vitest",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"server": "json-server --watch db.json"
+		"server": "json-server --watch db.json --port 3000"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",

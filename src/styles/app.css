@@ -3,5 +3,12 @@
 @tailwind utilities;
 
 .main-container{
-    @apply flex justify-center mt-8
+    @apply flex flex-col
+}
+
+.header{
+    @apply h-24 mt-6 mx-8 shadow-md rounded-md flex justify-center items-center bg-white overflow-hidden
+}
+.info{
+    @apply  mx-8 mt-4
 }
